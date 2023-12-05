@@ -1,0 +1,17 @@
+E:\Repos\OpenWeatherMapProject\bin\Debug\net8.0\OpenWeatherMapProject.exe
+E:\Repos\OpenWeatherMapProject\bin\Debug\net8.0\OpenWeatherMapProject.deps.json
+E:\Repos\OpenWeatherMapProject\bin\Debug\net8.0\OpenWeatherMapProject.runtimeconfig.json
+E:\Repos\OpenWeatherMapProject\bin\Debug\net8.0\OpenWeatherMapProject.dll
+E:\Repos\OpenWeatherMapProject\bin\Debug\net8.0\OpenWeatherMapProject.pdb
+E:\Repos\OpenWeatherMapProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Repos\OpenWeatherMapProject\obj\Debug\net8.0\OpenWeatherMapProject.csproj.AssemblyReference.cache
+E:\Repos\OpenWeatherMapProject\obj\Debug\net8.0\OpenWeatherMapProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\OpenWeatherMapProject\obj\Debug\net8.0\OpenWeatherMapProject.AssemblyInfoInputs.cache
+E:\Repos\OpenWeatherMapProject\obj\Debug\net8.0\OpenWeatherMapProject.AssemblyInfo.cs
+E:\Repos\OpenWeatherMapProject\obj\Debug\net8.0\OpenWeatherMapProject.csproj.CoreCompileInputs.cache
+E:\Repos\OpenWeatherMapProject\obj\Debug\net8.0\OpenWeatherMapProject.csproj.CopyComplete
+E:\Repos\OpenWeatherMapProject\obj\Debug\net8.0\OpenWeatherMapProject.dll
+E:\Repos\OpenWeatherMapProject\obj\Debug\net8.0\refint\OpenWeatherMapProject.dll
+E:\Repos\OpenWeatherMapProject\obj\Debug\net8.0\OpenWeatherMapProject.pdb
+E:\Repos\OpenWeatherMapProject\obj\Debug\net8.0\OpenWeatherMapProject.genruntimeconfig.cache
+E:\Repos\OpenWeatherMapProject\obj\Debug\net8.0\ref\OpenWeatherMapProject.dll
