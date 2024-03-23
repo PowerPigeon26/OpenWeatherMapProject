@@ -1,1 +1,1 @@
-Hi! This project was made to familiarize myself with APIs in C#. The OpenWeatherMap API was used to allow the user to specify a city, and then the API would return weather information about that city, in this case displaying the temperature in farenheit.
+Hi! This project was made to familiarize myself with APIs in C#. The OpenWeatherMap API was used to allow the user to specify a city, and then the API returns weather information about that city, in this case displaying the temperature in farenheit.
